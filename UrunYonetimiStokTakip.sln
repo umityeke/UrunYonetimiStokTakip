@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunYonetimiStokTakip", "UrunYonetimiStokTakip\UrunYonetimiStokTakip.csproj", "{54A64AB4-1F1E-4A33-930E-E57EB9E396AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{869FB9B3-2403-456B-AD75-08A5444D76C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A3D354F3-333D-4D1D-9C03-EE764A2A16DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{AA4778FC-0870-4610-8F4F-933F33A0DDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunYonetimiStokTakip.WebFormUI", "UrunYonetimiStokTakip.WebFormUI\UrunYonetimiStokTakip.WebFormUI.csproj", "{7523D8AD-331B-4066-A2BE-D58C8DB7BAAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunYonetimiStokTakip.MvcUI", "UrunYonetimiStokTakip.MvcUI\UrunYonetimiStokTakip.MvcUI.csproj", "{BB291180-4660-4138-BC00-6122773EE4EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A64AB4-1F1E-4A33-930E-E57EB9E396AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A64AB4-1F1E-4A33-930E-E57EB9E396AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A64AB4-1F1E-4A33-930E-E57EB9E396AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A64AB4-1F1E-4A33-930E-E57EB9E396AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869FB9B3-2403-456B-AD75-08A5444D76C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869FB9B3-2403-456B-AD75-08A5444D76C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869FB9B3-2403-456B-AD75-08A5444D76C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869FB9B3-2403-456B-AD75-08A5444D76C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D354F3-333D-4D1D-9C03-EE764A2A16DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D354F3-333D-4D1D-9C03-EE764A2A16DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D354F3-333D-4D1D-9C03-EE764A2A16DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D354F3-333D-4D1D-9C03-EE764A2A16DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4778FC-0870-4610-8F4F-933F33A0DDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4778FC-0870-4610-8F4F-933F33A0DDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4778FC-0870-4610-8F4F-933F33A0DDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4778FC-0870-4610-8F4F-933F33A0DDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7523D8AD-331B-4066-A2BE-D58C8DB7BAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7523D8AD-331B-4066-A2BE-D58C8DB7BAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7523D8AD-331B-4066-A2BE-D58C8DB7BAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7523D8AD-331B-4066-A2BE-D58C8DB7BAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB291180-4660-4138-BC00-6122773EE4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB291180-4660-4138-BC00-6122773EE4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB291180-4660-4138-BC00-6122773EE4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB291180-4660-4138-BC00-6122773EE4EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B932F9D0-239D-4D99-85EF-B388E254E68A}
+	EndGlobalSection
+EndGlobal
