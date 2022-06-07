@@ -1,0 +1,2 @@
+# UrunYonetimiStokTakip
+UrunYonetimiStokTakip
